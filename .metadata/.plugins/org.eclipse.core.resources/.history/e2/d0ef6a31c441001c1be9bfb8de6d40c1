@@ -1,0 +1,11 @@
+package com.spring.lessondao;
+
+public class LessonMapperlmpl implements LessonMapper {
+
+	@Override
+	public int deleteLesson(int no) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+}

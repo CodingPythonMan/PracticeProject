@@ -1,0 +1,5 @@
+package com.springexam.biz.board.impl;
+
+public class BoardServieImpl {
+
+}

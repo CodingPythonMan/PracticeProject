@@ -1,0 +1,8 @@
+package com.spring.deptdao;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public class DeptMapperlmpl implements DeptMapper {
+
+}
